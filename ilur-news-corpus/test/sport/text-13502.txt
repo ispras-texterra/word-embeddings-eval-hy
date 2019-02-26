@@ -1,0 +1,68 @@
+
+Մեկնարկեց Norway Chess 2013 գերմրցաշարում 7-րդ տուրը: Նախորդ տուրում մրցաշարի ետնապահներից Համերին շատ արագ հաղթելուց հետո Լեւոն Արոնյանը այսօր կարող է միավորներ պոկել մեկ այլ ետնապահից` չինացի Վան Հաոյից, որն առայժմ բավական անհաջող է հանդես գալիս:
+
+
+Տուրի մյուս պարտիաներն են. Կարյակին-Նակամուրա, Համեր-Կառլսեն, Սվիդլեր-Թոփալով, Ռաջաբով-Անանդ:
+
+
+Մրցաշարային աղյուսակն 6-րդ տուրից հետո. 1. Կարյակին` 4,5; 2. Կառլսեն` 4; 3-4. Նակամուրա, Արոնյան` 3,5; 5-6. Անանդ, Սվիդլեր` 3; 7-8. Թոփալով, Ռաջաբով` 2,5; 9. Վան Հաո՝ 2; 10. Համեր` 1,5:
+
+
+Վան Հաո-Արոնյան, Կարյակին-Նակամուրա, Ռաջաբով-Անանդ պարտիաների ընթացքին կարող եք հետեւել այստեղ:
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-norway", game: "07-Wang_Hao-Aronian_Levon", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-norway", game: "07-Karjakin_Sergey-Nakamura_Hikaru", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-norway", game: "07-Radjabov_Teimour-Anand_Viswanathan", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 

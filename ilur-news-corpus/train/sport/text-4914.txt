@@ -1,0 +1,48 @@
+
+London Chess Classic մրցաշարի 7-րդ տուրում Լեւոն Արոնյանի մրցակիցը այսօր անգլիացի գրոսմայստեր Գեվեյն Ջոնսն է: Արոնյանը խաղում է սեւերով: Հիշեցնենք, որ հայ գրոսմայստերը առայժմ 5 միավորով 6-րդ տեղում է:
+
+
+Տուրի կենտրոնական պարտիայում Նակամուրան սպիտակներով կխաղա մրցաշարի առաջատար Մագնուս Կառլսենի հետ:
+
+
+Այս տուրում կկայանան նաեւ հետեւյալ պարտիաները. Ադամս-Մաքշեյն, Պոլգար-Անանդ:
+
+
+Ջոնս-  Արոնյան եւ Նակամուրա - Կառլսեն պարտիաներին կարող եք հետեւել այստեղ.
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2012-lccc", game: "07-Gawain_Jones-Levon_Aronian", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+.
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2012-lccc", game: "07-Hikaru_Nakamura-Magnus_Carlsen_", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 

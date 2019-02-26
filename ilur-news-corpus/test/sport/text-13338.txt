@@ -1,0 +1,71 @@
+
+Norway Chess 2013 գերմրցաշարի 2-րդ տուրում Լեւոն Արոնյանը սպիտակներով հաղթեց ամերիկացի Նակամուրային: Պարտիան բավական բարդ ստացվեց, Արոնյանը խաղի միջնամասում դիրքային առավելություն ստացավ եւ թեպետ մրցակիցը համառորեն պաշտպանվում էր, սակայն հայ գրոսմայստերը կարողացավ երկարատեւ պայքարից հետո 70-րդ քայլում գրանցել իր առաջին հաղթանակը մրցաշարում:
+
+
+Հետաքրքիր ստացվեց տուրի կենտրոնական պարտիան Մագնուս Կառլսենի եւ Վիշի Անանդի միջեւ: Թույլ սկզբնախաղից հետո Անանդը վատ դիրք ստացավ, սակայն Կառլսենը չկարողացավ իրացնել առավելությունը եւ մրցավեճն ավարտվեց ոչ-ոքի:
+
+
+Ռուսաստանցի Կարյակինը երկրորդ հաղթանակը տարավ մրցաշարում` այս անգամ նորվեգացի Համերի նկատմամբ, Վան Հաոն հաղթեց Սվիդլերին, իսկ Թոփալով-Ռաջաբով պարտիան ավարտվեց ոչ-ոքի:
+
+
+Մրցաշարային դիրքը 2-րդ տուրից հետո. 1. Կարյակին` 2; 2. Արոնյան` 1,5; 3-8. Կառլսեն, Անանդ, Նակամուրա, Վան հաո, Սվիդլեր, Թոփալով` 1; 9. Ռաջաբով` 0,5; 10. Համեր:
+
+
+Մայիսի 10-ին կկայանան 3-րդ տուրի հանդիպումները: Արոնյանը սեւերով կխաղա Սվիդլերի հետ: 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-norway", game: "02-Aronian_Levon-Nakamura_Hikaru", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-norway", game: "02-Carlsen_Magnus-Anand_Viswanathan", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-norway", game: "02-Wang_Hao-Svidler_Peter", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 

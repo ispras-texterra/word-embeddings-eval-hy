@@ -1,0 +1,74 @@
+
+Norway Chess 2013 գերմրցաշարի 3-րդ տուրում հետո հայ գրոսմայստեր Լեւոն Արոնյանի սեւերով ոչ-ոքի խաղաց ռուսաստանցի Սվիդլերի հետ: Պարտիան հիմնականում հանգիստ հունով ընթացավ, կողմերը միմյանց բարդ խնդիրների առջեւ չդրեցին եււ ոչ-ոքին տրամաբանական էր:
+
+
+Փոխարենը բավական հետաքրքիր եւ դրամատիկ պայքարում անցավ Անանդ-Թոփալով պարտիան: Գրեթե ամեն քայլից հետո խաղատախտակի վրա նոր իրավիճակ էր ստեղծվում: Ի վերջո, նյարդերի այս համառ պայքարում ուժեղ գտնվեց Անանդը:
+
+
+Իսկ մրցաշարի միանձնյա առաջատար Կարյակինը շարունակում է 100 տոկոսանոց արդյունք ցույց տալ: Այս անգամ նրան պարտվեց չինացի Բան Հաոն: Ճիշտ է, Կարյակինը առայժմ չի խաղացել մրցաշարի եւ ոչ մի ֆավորիտի հետ:
+
+
+Ռաջաբովը հաղթեց մրցաշարի անհուսալի ետնապահ Համերին, իսկ Կառլսենը ոչ-ոքի խաղաց Նակամուրայի հետ:
+
+
+Մրցաշարային դիրքը 2-րդ տուրից հետո. 1. Կարյակին` 3; 2. Արոնյան, Անանդ` 2; 1,5; 4-7. Կառլսեն, Նակամուրա, Սվիդլեր, Ռաջաբով` 1,5; 8-9. Վան Հաո Թոփալով` 1; 10. Համեր` 0:
+
+
+Այսօր մրցաշարում հանգստյան օր է, իսկ վաղը կկայանա 4-րդ տուրը, որի կենտրոնական պարտիայում Արոնյանը սպիտակներով կընդունի հենց առաջատարին` Կարյակինին: 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-norway", game: "03-Svidler_Peter-Aronian_Levon", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-norway", game: "03-Anand_Viswanathan-Topalov_Veselin", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-norway", game: "03-Karjakin_Sergey-Wang_Hao", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 

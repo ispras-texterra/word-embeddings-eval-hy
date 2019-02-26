@@ -1,0 +1,42 @@
+
+Հոլանդական Վեյկ Ան Զեե քաղաքում մեկնարկեց Tata Steel Chess գերմրցաշարի 6-րդ տուրը: Լեւոն Արոնյանը այսօր ուժերը կչափի հունգարացի Պետեր Լեկոյի հետ, որն առայժմ վատ չի հանդես գալիս:
+
+
+Մրցաշարի առաջատարներից Կառլսենը խաղում է Սոկոլովի, Անանդը՝ Հարիկրիշնայի, իսկ Կարյակինը՝ Կարուանայի հետ:
+
+
+Մրցաշարային աղյուսակը 5 տուրից հետո այսպիսին է. 1-3. Վիշվանաթան Անանդ, Մագնուս Կարլսեն, Սերգեյ Կարյակին – 3,5; 4-7. Հիկարու Նակամուրա,  Պետեր Լեկո, Պենտալա Հարիկրիշնա, Վան Հաո – 3;  8. Լեւոն Արոնյան – 2,5; 9-11. Լյուկ վան Վելի, Ֆաբիանո Կարուանա, Անիշ Գիրի – 2; 12-13. Էրվին Լ`Ամի, Իվան Սոկոլով – 1,5; 14. Հոու Յիֆան - 1:
+
+
+Արոնյան – Լեկո եւ Կառլսեն – Սոկոլով պարտիաների ընթացքին կարող եք հետեւել այստեղ.
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-tata", game: "06-Aronian_Levon-Leko_Peter", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-tata", game: "06-Carlsen_Magnus-Sokolov_Ivan", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 

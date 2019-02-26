@@ -1,0 +1,71 @@
+
+Մեկնարկեց Norway Chess 2013 գերմրցաշարում 6-րդ տուրը: Այս տուրում Լեւոն Արոնյանը մրցաշարային դիրքերը բարելավելու լավ հնարավորություն ունի, քանի որ մրցակիցը նորվեգացի Համերն է`վարկանիշով ամենաթույլը:
+
+
+Մրցաշարի առաջատարը` Կարյակինը, կփորձի այսօր ուշքի գալ երեկ Կառլսենից կրած ցավալի պարտությունից հետո: Դա դժվար կլինի, քանի որ մրցակիցը աշխարհի չեմպիոն Անանդն է:
+
+
+Տուրի մյուս պարտիաներն են. Կառլսեն-Ռաջաբով, Նակամուրա-Սվիդլեր, Թոփալով-Վան Հաո
+
+
+Մրցաշարային աղյուսակն 5-րդ տուրից հետո. 1. Կարյակին` 4; 2-3. Նակամուրա, Կառլսեն` 3;  4-7. Արոնյան, Անանդ, Սվիդլեր, Ռաջաբով`2,5; 8. Թոփալով` 2; 9-10. Համեր, Վան Հաո՝ 1,5:
+
+
+Արոնյան-Համեր, Անանդ-Կարյակին եւ Կառլսեն-Ռաջաբով պարտիաների ընթացքին կարող եք հետեւել այստեղ.
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-norway", game: "06-Aronian_Levon-Hammer_Jon_Ludvig", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-norway", game: "06-Anand_Viswanathan-Karjakin_Sergey", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-norway", game: "06-Carlsen_Magnus-Radjabov_Teimour", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 

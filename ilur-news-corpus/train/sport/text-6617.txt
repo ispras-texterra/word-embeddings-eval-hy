@@ -1,0 +1,42 @@
+
+Հոլանդիայի Վեյկ Ան Զեե քաղաքում ընթացող Tata Steel Chess գերմրցաշարի 4-րդ տուրում Լեւոն Արոնյանը սպիտակներով խաղում է աշխարհի չեմպիոն Վիշի Անանդի հետ: Արոնյանն առայժմ ունի 1,5 միավոր, Անանդը՝ 2: Առաջատարը ռուսաստանցի Սերգեյ Կարյակինն է` 2,5 միավոր:
+
+
+Արոնյան – Անանդ, ինչպես նաեւ Նակամուրա – Կարյակին պարտիաներին կարող եք հետեւել այստեղ.
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-tata", game: "04-Aronian_Levon-Anand_Viswanathan", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+.
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-tata", game: "04-Nakamura_Hikaru-Karjakin_Sergey", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 

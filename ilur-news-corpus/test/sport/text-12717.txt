@@ -1,0 +1,71 @@
+
+Փարիզում ավարտվեց Ալեքսանդր Ալյոխինի հուշամրցաշարի 5-րդ տուրը: Տուրի կենտրոնական պարտիայում Լեւոն Արոնյանը սեւերով ոչ-ոքի խաղաց Բորիս Գելֆանդի հետ: Պարտիան բավական լարված եւ հետաքրքիր ստացվեց, որտեղ երկու կողմերն էլ ունեին հաջողության հասնելու որոշակի հնարավորություններ, սակայն չօգտվեցին դրանցից:
+
+
+Տուրում գրանցվեց խոշոր սենսացիա. մրցաշարում ամենացածր վարկանիշ ունեցող ֆրանսիացի գրոսմայստեր Ֆրեսինեն սեւերով պարզապես ջախջախեց ռուսաստանցի Կրամնիկին: Աշխարհի չեմպիոն Անանդը հաղթեց Դին Լիժենին:
+
+
+Շարունակում է խիստ անհաջող հանդես գալ ռուսաստանցի Պյոտր Սվիդլերը, որը սպիտակներով պարտվեց մեկ այլ ֆրանսիացու՝ Վաշիեր-Լագրավին, որը դարձավ մրցաշարի միանձնյա առաջատար: Ադամս-Վիտյուգով պարտիան ավարտվեց ոչ-ոքի:
+
+
+Մրցաշարային դիրքը 5-րդ տուրից հետո հետեւյալ տեսքը ստացավ. 1. Վաշյե-Լագրավ՝  3,5; 2-5. Արոնյան, Գելֆանդը, Ադամս, Ֆրեսինե՝ 3; 6. Անանդ՝ 2,5; 7-9. Կրամնիկ, Դին Լիժեն, Վիտյուգով՝ 2; 10. Սվիդլեր:
+
+
+Այս տուրից հետո մրցաշարում երկօրյա ընդմիջում կլինի, որի ընթացքում շախմատիստները Փարիզից կմեկնեն Սանկտ-Պետերբուրդ, որտեղ էլ կանցկացվի մրցաշարի երկրորդ շրջանը:
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-alekhine", game: "05-Gelfand_Boris-Aronian_Levon", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-alekhine", game: "05-Anand_Viswanathan-Ding_Liren", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-alekhine", game: "05-Kramnik_Vladimir-Fressinet_Laurent", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 

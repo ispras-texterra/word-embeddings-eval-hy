@@ -1,0 +1,51 @@
+
+Լոնդոնում մեկնարկեց շախմատի աշխարհի չեմպիոնի հավակնորդների մրցաշարի երկրորդ տուրը:  Լեւոն Արոնյանը սպիտակներով կխաղա Իսրայելը ներկայացնող Բորիս Գելֆանդի հետ:
+
+
+Տուրի կենտրոնական պարտիայում կհանդիպեն ՖԻԴԵ-ի վարկանիշային աղյուսակի երկու ուժեղագույն շախմատիստները՝ նորվեգացի Մագնուս Կառլսենը եւ ռուսաստանցի Վլադիմիր Կրամնիկը:
+
+
+Տուրի մյուս պարտիաներն են. Գրիշչուկ – Սվիդլեր, Ռաջաբով – Իվանչուկ:
+
+
+Հիշեցնենք, որ առաջին տուրում գրանցվել էին միայն ոչ-ոքիներ:
+
+
+Արոնյան – Գելֆանդ եւ Կառլսեն – Կրամնիկ պարտիաների ընթացքին կարող եք հետեւել այստեղ.
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-candidates", game: "02-Levon_Aronian-Boris_Gelfand", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-candidates", game: "02-Magnus_Carlsen-Vladimir_Kramnik", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 

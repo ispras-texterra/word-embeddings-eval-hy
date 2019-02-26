@@ -1,0 +1,68 @@
+
+Լոնդոնում մեկնարկեց շախմատի աշխարհի չեմպիոնի հավակնորդների մրցաշարի նախավերջին՝ 13-րդ տուրը:
+
+
+Լեւոն Արոնյանը սեւերով կխաղա Ալեքսանդր Գրիշչուկի հետ: Հասկանալի է, որ նախորդ պարտություններից հետո այժմ Արոնյանի համար մրցաշարը ըստ էության ավարտված է, սակայն լավ նոտայով ավարտելը դեռ ոչ մեկին չի վնասել:
+
+
+Առաջատարը՝ Վլադիմիր Կրամնիկը սպիտակներով կմրցի Բորիս Գելֆանդի հետ, Մագնուս Կարլսենը սեւերով կխաղա Թեյմուր Ռաջաբովի, իսկ Պյոտր Սվիդլերը՝ Վասիլի Իվանչուկի հետ:
+
+
+Հիշեցնենք մրցաշարային իրավիճակը 12-րդ տուրից հետո. Կրամնիկն ունի 8 միավոր, Կարլսենը՝ 7.5, Արոնյանը՝ 6․5, Սվիդլերը՝ 6, Գրիշչուկն ու Գելֆանդը՝ 5.5-ական,  Իվանչուկը՝ 5, իսկ Ռաջաբովը 4:
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-candidates", game: "13-Alexander_Grischuk-Levon_Aronian", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-candidates", game: "13-Vladimir_Kramnik-Boris_Gelfand", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-candidates", game: "13-Teimour_Radjabov-Magnus_Carlsen", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 

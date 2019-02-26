@@ -1,0 +1,74 @@
+
+Սանկտ-Պետերբուրգում մեկնարկեց Ալեքսանդր Ալյոխինի հուշամրցաշարի 7-րդ տուրը:
+
+
+Առաջատարների խմբում գտնվող Լեւոն Արոնյանը սեւերով կխաղա ռուսաստանցի Վիտյուգովի հետ, որի մասին, պետք է ասել, աղքատիկ պատկերացում ունենք, այնպես որ զերծ մնանք որեւէ կանխատեսում անել:
+
+
+Տուրի կենտրոնական պարտիայում Կրամնիկը կընդունի Սվիդլերին: Սա միայն անունների հնչեղությամբ է կենտրոնականը, որովհետեւ երկու շախմատիստներն էլ բավական անհաջող են հանդես գալիս:
+
+
+Տուրի մյուս պարտիաներն են`Անանդ- Լորան Ֆրասինյե, Ադամս- Վաշյե-Լագրավ, Գելֆանդ- Դին Լիժեն:
+
+
+Մրցաշարային դիրքը 6-րդ տուրից հետո. 1. Վաշյե-Լագրավ՝  4; 2-5. Արոնյան, Գելֆանդը, Ադամս, Ֆրեսինե՝ 3,5; 6. Անանդ՝ 3; 7-9. Կրամնիկ, Դին Լիժեն, Վիտյուգով՝ 2,5; 10. Սվիդլեր՝ 2:
+
+
+Վիտյուգով-Արոնյան, Կրամնիկ-Սվիդլեր եւ Ադամս- Վաշյե-Լագրավ պարտիաների ընթացքին կարող եք հետեւել այստեղ.
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-alekhine", game: "07-Vitiugov_Nikita-Aronian_Levon", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-alekhine", game: "07-Svidler_Peter-Kramnik_Vladimir", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-alekhine", game: "07-Adams_Michael-Vachier_Lagrave_Maxime", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 

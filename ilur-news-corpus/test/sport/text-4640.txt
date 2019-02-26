@@ -1,0 +1,45 @@
+
+London Chess Classic մրցաշարի չորրորդ տուրում Լեւոն Արոնյանը այսօր հանդիպում է անգլիացի գրոսմայստեր Լյուք Մաքշեյնի հետ: Նշենք, որ Արոնյանը առայժմ ընդամենը մեկ միավոր է վաստակել եւ հունգարացի Հուդիթ Պոլգարի հետ եզրափակում է մրցաշարային աղյուսակը:
+
+
+Այս տուրում կկայանան նաեւ հետեւյալ պարտիաները. Անանդ – Կրամնիկ, Կառլսեն – Ջոնս, Նակամուրա – Ադամս:
+
+
+Մաքշեյն – Արոնյան եւ Անանդ – Կրամնիկ պարտիաներին կարող եք հետեւել այստեղ.
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2012-lccc", game: "04-Luke_McShane-Levon_Aronian", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+.
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2012-lccc", game: "04-Vishy_Anand-Vladimir_Kramnik", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 

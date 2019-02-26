@@ -1,0 +1,68 @@
+
+Մեկօրյա հանգստից հետո մեկնարկեց Norway Chess 2013 գերմրցաշարը: 8-րդ տուրում Լեւոն Արոնյանին բարդ մրցամարտ է սպասվում. նրա մրցակիցը կլինի բուլղարացի Վեսելին Թոփալովը, որը կխաղա սպիտակներով:
+
+
+Տուրի մյուս պարտիաներն են՝ Սվիդլեր-Կարյակին, Կառլսեն-Վան Հաո, Անանդ-Համեր, Նակամուրա-Ռաջաբով:
+
+
+Մրցաշարային աղյուսակն 7-րդ տուրից հետո. 1. Կարյակին` 5,5; 2. Կառլսեն` 5; 3-4. Արոնյան, Անանդ՝ 4, 5-6. Նակամուրա, Սվիդլեր` 3,5; 7. Թոփալով՝ 3; 8-9. Ռաջաբով, Վան Հաո՝ 2,5; 10. Համեր` 1,5:
+
+
+Թոփալով-Արոնյան, Սվիդլեր-Կարյակին, Կառլսեն-Վան Հաո պարտիաների ընթացքին կարող եք հետեւել այստեղ.
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-norway", game: "08-Topalov_Veselin-Aronian_Levon", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-norway", game: "08-Svidler_Peter-Karjakin_Sergey", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-norway", game: "08-Carlsen_Magnus-Wang_Hao", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 

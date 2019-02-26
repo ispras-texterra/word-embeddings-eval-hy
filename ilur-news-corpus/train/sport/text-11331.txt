@@ -1,0 +1,71 @@
+
+Լոնդոնում մեկնարկեց շախմատի աշխարհի չեմպիոնի հավակնորդների մրցաշարի 10-րդ տուրը։
+
+
+Հայ գրոսմայստեր Լեւոն Արոնյանը նախորդ տուրում Բորիս Գելֆանդից կրած պարտությունից հետո այսօր սպիտակներով կփորձի հաղթել ուկրաինացի Վասիլի Իվանչուկին, որը այս մրցաշարում չնայած վատ չի հանդես գալիս, սակայն ցայտնոտի պատճառով անընդհատ միավորներ է կորցնում: Արոնյանն առայժմ կես միավոր է զիջում Կառլսենին եւ այժմ արդեն ստիպված կլինի ավելի հարձակողական մարտավարությամբ հանդես գալ: 
+
+
+Մրցաշարի առաջատար Մագնուս Կարլսենը սպիտակներով կմրցի իսրայելցի Բորիս Գելֆանդի հետ: Մյուս խաղատախտակների վրա կմրցեն հետեւյալ զույգերը` Ալեքսանդր Գրիշչուկ (Ռուսաստան) – Վլադիմիր Կրամնիկ (Ռուսաստան), Թեյմուր Ռաջաբով (Ադրբեջան) – Պյոտր Սվիդլեր (Ռուսաստան): 
+
+
+Հիշեցնենք, որ 10-րդ տուրից հետո Կարլսենն ունի 6 միավոր, Արոնյանը՝ 5,5, Կրամնիկը՝ 5, Գրիշչուկն ու Գելֆանդը՝ 4,5-ական, Սվիդլերը՝ 4, Իվանչուկը՝ 3․5, Ռաջաբովը 3 միավոր:
+
+
+Արոնյան-Իվանչուկ, Կարլսեն–Գելֆանդ, Գրիշչուկ–Կրամնիկ պարտիաների ընթացքին կարող եք հետեւել այստեղ.
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-candidates", game: "10-Levon_Aronian-Vassily_Ivanchuk", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-candidates", game: "10-Magnus_Carlsen-Boris_Gelfand", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-candidates", game: "10-Alexander_Grischuk-Vladimir_Kramnik", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 

@@ -1,0 +1,74 @@
+
+Սանկտ-Պետերբուրգում մեկնարկեց Ալեքսանդր Ալյոխինի հուշամրցաշարի 8-րդ տուրը:
+
+
+Առաջատարների խմբում գտնվող Լեւոն Արոնյանը սեւերով կխաղա ֆրանսիացի Ֆրասինյեյի հետ:
+
+
+Տուրում երկու ուշագրավ դիմակայություն է սպասվում. Կրամնիկ-Գելֆանդ եւ Անանդ-Սվիդլեր: Թե Կրամնիկը, թե Սվիդլերը առայժմ անհաջող են հանդես գալիս եւ այսօր կփորձեն շտկել իրենց գործերը:
+
+
+Տուրի մյուս պարտիաներն են` Վաշյե-Լագրավ-Վիտյուգով, Դին Լիժեն-Ադամս:
+
+
+Մրցաշարային դիրքը 7-րդ տուրից հետո. 1. Վաշյե-Լագրավ, Գելֆանդ` 4,5; 3-5. Արոնյան, Ադամս, Անանդ՝ 4; 6. Ֆրեսինե` 3,5, 7-8. Կրամնիկ, Վիտյուգով` 3; 9. Դին Լիժեն ՝ 2,5; 10. Սվիդլեր՝ 2:
+
+
+Ֆրեսինյե-Արոնյան, Կրամնիկ-Գելֆանդ եւ Անանդ-Սվիդլեր պարտիաների ընթացքին կարող եք հետեւել այստեղ.
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-alekhine", game: "08-Fressinet_Laurent-Aronian_Levon", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-alekhine", game: "08-Kramnik_Vladimir-Gelfand_Boris", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-alekhine", game: "08-Anand_Viswanathan-Svidler_Peter", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 

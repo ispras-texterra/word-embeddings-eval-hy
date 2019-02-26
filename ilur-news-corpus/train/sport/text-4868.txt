@@ -1,0 +1,25 @@
+
+London Chess Classic մրցաշարի 6-րդ տուրում Լեւոն Արոնյանը այսօր հանդիպում է ռուսաստանցի գրոսմայստեր Վլադիմիր Կրամնիկի հետ: Նշենք, որ Արոնյանը առայժմ չորս միավորով 6-րդ տեղում է, իսկ Կրամնիկը 11 միավորով՝ 2-րդը:
+
+
+Այս տուրում կկայանան նաեւ հետեւյալ պարտիաները. Անանդ – Ադամս, Կառլսեն – Պոլգար,  Մաքշեյն-Ջոնս:
+
+
+Արոնյան - Կրամնիկ պարտիաներին կարող եք հետեւել այստեղ.
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2012-lccc", game: "06-Levon_Aronian-Vladimir_Kramnik", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 

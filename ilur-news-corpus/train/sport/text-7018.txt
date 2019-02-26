@@ -1,0 +1,42 @@
+
+Հոլանդական Վեյկ Ան Զեե քաղաքում ընթացող Tata Steel Chess գերմրցաշարում 8-րդ տուրում Լեւոն Արոնյանը սպիտակներով խաղում է Հոու Յիֆանի հետ: Տուրի կենտրոնական պարտիայում հանդիպում են Մագնուս Կառլսենն ու Սերգեյ Կարյակինը:
+
+
+Լեւոն Արոնյան - Հոու Յիֆան եւ Մագնուս Կառլսեն - Սերգեյ Կարյակին պարտիաների ընթացքին կարող եք հետեւել այստեղ:
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-tata", game: "08-Aronian_Levon-Hou_Yifan", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-tata", game: "08-Carlsen_Magnus-Karjakin_Sergey", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 

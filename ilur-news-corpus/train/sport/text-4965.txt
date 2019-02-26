@@ -1,0 +1,45 @@
+
+London Chess Classic մրցաշարի վերջին՝ 9-րդ տուրում Լեւոն Արոնյանը այսօր հանդիպում է հունգարացի Յուդիթ Պոլգարի հետ: Նշենք, որ Արոնյանը առայժմ 7 միավորով 6-րդ տեղում է:
+
+
+Տուրի կենտրոնական պարտիայում կմրցեն աշխարհի ուժեղագույն շախմատիստ Մագնուս Կառլսենն ու աշխարհի չեմպիոն Վիշի Անանդը: Պարտիան որոշակի ինտրիգ է պարունակում, քանի որ եթե Կառլսենը չհաղթի,  ապա 2-րդ տեղում ընթացող Կրամնիկը Ադամսին հաղթելու դեպքում կարող է միավորներով հավասարվել նորվեգացուն:
+
+
+Պոլգար – Արոնյան, Կառլսեն – Անանդ պարտիաներին եք հետեւել այստեղ
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2012-lccc", game: "09-Judit_Polgar-Levon_Aronian", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2012-lccc", game: "09-Magnus_Carlsen-Vishy_Anand", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 

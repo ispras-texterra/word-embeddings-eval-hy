@@ -1,0 +1,45 @@
+
+London Chess Classic մրցաշարի երրորդ տուրում Լեւոն Արոնյանը այսօր հանդիպում է աշխարհի չեմպիոն Վիշի Անանդի հետ: Հիշեցնենք, որ Արոնյանը առայժմ միավոր չի վաստակել եւ զբաղեցնում է մրցաշարային աղյուսակի վերջին տեղը:
+
+
+Այս տուրում մեծ հետաքրքրությամբ է սպասվում նաեւ առաջատարների՝ Կրամնիկ – Կառլսեն պարտիան:
+
+
+Արոնյան – Անանդ եւ Կրամնիկ - Կառլսեն պարտիաներին կարող եք հետեւել այստեղ.
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2012-lccc", game: "03-Levon_Aronian-Vishy_Anand", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+.
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2012-lccc", game: "03-Vladimir_Kramnik-Magnus_Carlsen", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 

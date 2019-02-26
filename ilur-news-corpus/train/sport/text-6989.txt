@@ -1,0 +1,42 @@
+
+Հոլանդական Վեյկ Ան Զեե քաղաքում մեկնարկեց Tata Steel Chess գերմրցաշարի 7-րդ տուրը: Լեւոն Արոնյանը այսօր սկզբունքային մրցավեճում հանդիպում է ռուսաստանցի Սերգեյ Կարյակինի հետ: Սա կարելի է համարել տուրի կենտրոնական հանդիպումներից մեկը: Եւս մեկ ուշագրավ դիմակայություն է սպասվում Լեկո – Կառլսեն պարտիայում:
+
+
+Կարյակին  - Արոնյան եւ Լեկո - Կառլսեն պարտիաների ընթացքին կարող եք հետեւել այստեղ.
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-tata", game: "07-Karjakin_Sergey-Aronian_Levon", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-tata", game: "07-Leko_Peter-Carlsen_Magnus", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 

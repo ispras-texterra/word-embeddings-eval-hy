@@ -1,0 +1,77 @@
+
+Թուրքական Անթալիայում ընթացող շախմատի աշխարհի թիմային առաջնության չորրորդ տուրում աշխարհի գործող չեմպիոն Հայաստանի հավաքականն այսօր հանդիպում է Չինաստանի հավաքականի հետ:
+
+
+Հիշեցնենք, որ նախօրեին մեր շախմատիստենրը 2,5-1,5 հաշվով հաղթել են ԱՄՆ ընտրանուն` 5 միավորով զբաղեցնելով երկրորդ հորիզոնականը: առաջատարն առայժմ Ուկրաինայի հավաքականն է, որն այսօր հանդիպելու է Գերմանիայի հավաքականի հետ:
+
+
+Չորրորդ տուրի մյուս մրցակից զույգերը՝ 
+
+
+Ադրբեջան -Ռուսաստան, Եգիպտոս – ԱՄՆ, Թուրքիա – Հոլանդիա:
+
+
+Լի Չաո (2679) – Արոնյան Լևոն (2801)Դինգ Լիրեն (2711) – Մովսեսյան Սերգեյ (2700)Բու Քսանջի (2683) – Հակոբյան Վլադիմիր (2681)
+
+
+
+
+
+
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-wctc", game: "04-Li_Chao_B-Aronian_Levon", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-wctc", game: "04-Movsesian_Sergei-Ding_Liren", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-wctc", game: "04-Bu_Xiangzhi-Akopian_Vladimir", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 

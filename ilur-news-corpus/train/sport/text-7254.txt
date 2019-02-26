@@ -1,0 +1,22 @@
+
+Վեյկ Ան Զեեի շախմատային գերմրցաշարի 10-րդ տուրում Լեւոն Արոնյանը սպիտակներով հաղթեց  Չինաստանի ներկայացուցիչ Վան Հաոյին: Վերջինս իրեն պարտված ճանաչեց 38-րդ քայլում:
+
+
+Այս հաղթանակից հետո Արոնյանը վաստակեց 6,5 միավոր: Տուրի մյուս հանդիպումները դեռ շարունակվում են:
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-tata", game: "10-Aronian_Levon-Wang_Hao", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 

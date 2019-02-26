@@ -1,0 +1,74 @@
+
+Լոնդոնում մեկնարկեց շախմատի աշխարհի չեմպիոնի հավակնորդների մրցաշարի 8-րդ տուրը, որտեղ կկայանա մրցաշարի, իսկ միգուցե  նաեւ տարվա գլխավոր հանդիպումը, որը կարող է վճռորոշ դառնալ հաղթողի հարցում՝ Մագնուս Կառլսեն – Լեւոն Արոնյան:
+
+
+Ավելորդ է ասել, թե ինչ նշանակություն ունի պարտիան կողմերի համար: Երկու շախմատիստները առաջին խաղաշրջանի հետո բավական առաջ են անցել իրենց բոլոր մրցակիցներից եւ այժմ հասկանալի է, որ հենց նրանցից մեկն էլ կնվաճի Վիշի Անանդի հետ աշխարհի չեմպիոնի կոչման համար մրցամարտ անցկացնելու իրավունքը:
+
+
+Նշենք, որ այս պահի դրությամբ հենց այս երկու գրոսմայստերներն են ՖԻԴԵ-ի վարկանիշային աղյուսակի առաջատարները:
+
+
+Մյուս զույգերում Թեյմուր Ռաջաբովը սպիտակներով կպայքարի Բորիս Գելֆանդի հետ: Վասիլի Իվանչուկը սևերով կմրցի Ալեքսանդր Գրիշչուկի, իսկ Վալդիմիր Կրամնիկը սպիտակ խաղաքարերով իր ուժերը կչափի Պետեր Սվիդլերի հետ:
+
+
+Հիշեցնենք մրցաշարային դիրքը 7-րդ տուրից հետո. 1-2. Արոնյան, Կարլսեն` 5; 3-4. Կրամնիկ, Սվիդլեր` 3,5; 5-6. Ռաջաբով, Գրիշչուկ` 3; 7-8. Գելֆանդ, Իվանչուկ` 2,5
+
+
+Կառլսեն – Արոնյան, Կրամնիկ-Սվիդլեր եւ Գրիշչուկ – Իվանչուկ պարտիաների ընթացքին կարող եք հետեւել այստեղ.
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-candidates", game: "08-Magnus_Carlsen-Levon_Aronian", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-candidates", game: "08-Vladimir_Kramnik-Peter_Svidler", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-candidates", game: "08-Alexander_Grischuk-Vassily_Ivanchuk", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 

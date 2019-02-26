@@ -1,0 +1,71 @@
+
+Մեկօրյա հանգստից հետո Ստավանգերում մեկնարկեց Norway Chess 2013 գերմրցաշարը, որի 4-րդ տուրում Լեւոն Արոնյանը սպիտակներով կխաղա մրցաշարի միանձնյա առաջատարի՝ ռուսաստանցի Սերգեյ Կարյակինի հետ: Վերջինս հիանալի է սկսել մրցաշարը՝ 3 հաղթանակ 3 խաղում, սակայն նրա մրցակիցների թվում ուժեղագույն շախմատիստներից դեռ ոչ ոք չի եղել. Արոնյանն առաջինն է եւ այսօր կերեւա Կարյակինի ամբիցիաների լրջությունը:  
+
+
+Նորվեգացի Մագնուս Կառլսենը հանդիպում է Սվիդլերի հետ, սա նույնպես խոստանում է հետաքրքիր մրցավեճ լինել. նորվեգացին կփորձի վրեժխնդիր լինել Լոնդոնի հավակնորդների մրցաշարում Սվիդլերից կրած ծանր պարտության համար:
+
+
+Աշխարհի չեմպիոն Վիշի Անանդը կխաղա ամերիկացի Նակամուրայի հետ: Մյուս պարտիաներն են՝ Վան Հաո-Ռաջաբով, Թոփալով-Համեր:
+
+
+Հիշեցնենք մրցաշարային դիրքը 3-րդ տուրից հետո. 1. Կարյակին` 3; 2. Արոնյան, Անանդ` 2; 1,5; 4-7. Կառլսեն, Նակամուրա, Սվիդլեր, Ռաջաբով` 1,5; 8-9. Վան Հաո, Թոփալով` 1; 10. Համեր` 0:
+
+
+Արոնյան-Կարյակին, Կառլսեն-Սվիդլեր եւ Անանդ-Նակամուրա պարտիաների ընթացքին կարող եք հետեւել այստեղ:
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-norway", game: "04-Aronian_Levon-Karjakin_Sergey", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-norway", game: "04-Carlsen_Magnus-Svidler_Peter", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-norway", game: "04-Anand_Viswanathan-Nakamura_Hikaru", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 

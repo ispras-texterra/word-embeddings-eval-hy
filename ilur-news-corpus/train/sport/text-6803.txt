@@ -1,0 +1,45 @@
+
+Հոլանդիայի Վեյկ Ան Զեե քաղաքում ընթացող Tata Steel Chess գերմրցաշարի 5-րդ տուրում Լեւոն Արոնյանը սեւերով խաղում է հոլանդացի գրոսմայստեր Իվան Սոկոլովի հետ: Հիշեցնենք, որ չորս տուրից հետո Արոնյանը վաստակել է 1,5 միավոր եւ գտնվում է ստորին հորիզոնականներում:
+
+
+Իսկ այսօր շախմատային աշխարհի ուշադրությունը սեւեռված կլինի տուրի կենտրոնական պարտիայի վրա. Անանդ – Կառլսեն: Աշխարհի չեմպիոնն ընդդեմ աշխարհի ուժեղագույն շախմատիստի: Բացի այդ, այս երկուսը Կարյակինի հետ միասին առայժմ գլխավորում են մրցաշարային աղյուսակը: Լեւոն Արոնյանին տպավորիչ կերպով հաղթելուց հետո այսօր Անանդից սպասում են նոր անակնկալներ եւ ականներ: Այնպես որ, սպասվում է մեծ դիմակայություն:
+
+
+Սոկոլով – Արոնյան, Անանդ – Կառլսեն պարտիաներին կարող եք հետեւել այստեղ.
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-tata", game: "05-Sokolov_Ivan-Aronian_Levon", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+.
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-tata", game: "05-Anand_Viswanathan-Carlsen_Magnus", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 

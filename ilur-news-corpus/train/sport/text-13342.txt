@@ -1,0 +1,74 @@
+
+Մեկնարկեց Norway Chess 2013 գերմրցաշարի 3-րդ տուրը: Հայ գրոսմայստեր Լեւոն Արոնյանի մրցակիցն այս անգամ ռուսաստանցի Պյոտր Սվիդլերն է, որից Լոնդոնի հավակնորդների մրցաշարում Արոնյանը ցավալի պարտություն կրեց: Դրանից հետո Սվիդլերը անհաջող հանդես եկավ Ալյոխինի մրցաշարում, եւ այժմ սասանված հեղինակությունը վերականգնելու խնդիր ունի:
+
+
+Տուրի կենտրոնական պարտիայում կհանդիպեն աշխարհի չեմպիոն Անանդն ու բուլղարացի Թոփալովը, որոնց միջեւ աշխարհի թագի վերջին դրամատիկ մրցամարտի հիշողությունները դեռ թարմ են: Առայժմ Թոփալովն ու Անանդը այս մրցաշարում ոչ-ոքի են խաղում:
+
+
+Մագնուս Կառլսենը սեւերով կխաղա Նակամուրայի հետ, որը երեկ պարտություն կրեց Արոնյանից:
+
+
+Տուրի մյուս պարտիաներն են. Կարյակին-Վան Հաո, Ռաջաբով-Համեր:
+
+
+Մրցաշարային դիրքը 2-րդ տուրից հետո. 1. Կարյակին` 2; 2. Արոնյան` 1,5; 3-8. Կառլսեն, Անանդ, Նակամուրա, Վան հաո, Սվիդլեր, Թոփալով` 1; 9. Ռաջաբով` 0,5; 10. Համեր:
+
+
+Սվիդլեր-Արոնյան, Նակամուրա-Կառլսեն եւ Անանդ-Թոփալով պարտիաների ընթացքին կարող եք հետեւել այստեղ:
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-norway", game: "03-Svidler_Peter-Aronian_Levon", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-norway", game: "03-Anand_Viswanathan-Topalov_Veselin", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-norway", game: "03-Nakamura_Hikaru-Carlsen_Magnus", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 

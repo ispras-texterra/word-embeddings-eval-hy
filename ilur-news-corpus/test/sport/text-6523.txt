@@ -1,0 +1,42 @@
+
+Հոլանդիայի Վեյկ Ան Զեե քաղաքում ընթացող Tata Steel Chess գերմրցաշարի երրորդ տուրում մրցաշարի գործող չեմպիոն Լեւոն Արոնյանը այսօր սեւերով խաղում է հնդիկ գրոսմայստեր Պենտալա Հարիկրիշնայի հետ: Նշենք, որ առաջին երկու տուրերում Արոնյանը ոչ-ոքի է խաղացել:
+
+
+Հարիկրիշնա – Արոնյան, եւ Կառլսեն – Վան Վելի պարտիաներին կարող եք հետեւել այստեղ:
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-tata", game: "03-Harikrishna_Pentala-Aronian_Levon", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+.
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-tata", game: "03-Carlsen_Magnus-Van_Wely_Loek", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 

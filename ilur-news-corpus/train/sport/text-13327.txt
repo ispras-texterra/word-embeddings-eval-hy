@@ -1,0 +1,68 @@
+
+Այսօր մեկնարկում է Norway Chess 2013 գերմրցաշարի 2-րդ տուրը: Այս տուրում Լեւոն Արոնյանը սպիտակներով խաղում է ամերիկացի Նակամուրայի հետ, որը, որպես կանոն, բավական հաջող է հանդես գալիս սեւերով: Սպասվում է հետաքրքիր մրցամարտ:
+
+
+Բայց տուրի գլխավոր զարդը Կառլսեն-Անանդ պարտիան է. շախմատիստներ, որոնք պայքարելու են աշխարհի չեմպիոնի թագի համար: Ինչ որ տեղ սա կարելի է համարել այդ մրցամարտի նախերգանք: Թեպետ, իհարկե, դժվար այժմ երկու շախմատիստներն էլ իրենց գիտելիքների զինանոցը ամբողջությամբ ներկայացնեն:
+
+
+Տուրի մյուս պարտիաներն են. Համեր-Կարյակին, Վան Հաո-Սվիդլեր, Թոփալով-Ռաջաբով:
+
+
+Արոնյան-Նակամուրա, Կառլսեն-Անանդ եւ Թոփալով-Ռաջաբով պարտիաների ընթացքին կարող եք հետեւել այստեղ:
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-norway", game: "02-Aronian_Levon-Nakamura_Hikaru", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-norway", game: "02-Carlsen_Magnus-Anand_Viswanathan", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-norway", game: "02-Topalov_Veselin-Radjabov_Teimour", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 

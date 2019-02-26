@@ -1,0 +1,71 @@
+
+Norway Chess 2013 գերմրցաշարում 7-րդ տուրում Լեւոն Արոնյանը սեւերով ոչ-ոքի խաղաց չինացի Վան Հաոյի հետ: Մրցաշարային առումով այս ոչ-ոքին Արոնյանի օգտին չէր, քանի որ առաջատարները հաղթանակներ տարան եւ ավելի մեծացրեցին իրենց առավելությունը հետապնդողներին:
+
+
+Մրցաշարի առաջատար Կարյակինը հերթական գեղեցիկ հաղթանակը տարավ. այս անգամ ամերիկացի Նակամուրայի նկատմամբ: Սակայն նրան չհաջողվեց պոկվել ընդամենը կես միավոր զիջող Կառլսենից, որը կանխատեսելի հաղթանակ տարավ իր հայրենակից Համերի նկատմամբ:
+
+
+Աշխարհի չեմպիոն Վիշի Անանդը թեպետ սեւերով էր խաղում, բայց արագորեն ջախջախեց ադրբեջանցի Թեյմուր Ռաջաբովին: Սվիդլեր-Թոփալով պարտիայում գրանցվեց ոչ-ոքի:
+
+
+Մրցաշարային աղյուսակն 7-րդ տուրից հետո հետեւյալ տեսքը ստացավ. 1. Կարյակին` 5,5; 2. Կառլսեն` 5; 3-4. Արոնյան, Անանդ՝ 4, 5-6. Նակամուրա, Սվիդլեր` 3,5; 7. Թոփալով՝ 3; 8-9. Ռաջաբով, Վան Հաո՝ 2,5; 10. Համեր` 1,5:
+
+
+Վաղը մրցաշարում հանգստյան օր է:
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-norway", game: "07-Wang_Hao-Aronian_Levon", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-norway", game: "07-Karjakin_Sergey-Nakamura_Hikaru", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-norway", game: "07-Radjabov_Teimour-Anand_Viswanathan", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 

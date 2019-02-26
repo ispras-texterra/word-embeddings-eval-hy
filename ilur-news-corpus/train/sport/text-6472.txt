@@ -1,0 +1,45 @@
+
+Հոլանդիայի Վեյկ Ան Զեե քաղաքում մեկնարկեց Tata Steel Chess մրցաշարը:
+
+
+1-ին տուրում Լեւոն Արոնյանը սպիտակներով խաղում է Լյուկ Վան Վելիի հետ:
+
+
+Արոնյան – Վան Վելի, ինչպես նաեւ մեկ այլ  հետաքրքիր մրցավեճի՝ Կառլսեն – Կարուանա պարտիայի ընթացքին կարող եք հետեւել այստեղ:
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-tata", game: "01-Aronian_Levon-Van_Wely_Loek", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+.
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-tata", game: "01-Carlsen_Magnus-Caruana_Fabiano", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 

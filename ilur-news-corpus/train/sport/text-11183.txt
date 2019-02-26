@@ -1,0 +1,65 @@
+
+Լոնդոնում անցկացվող շախմատի աշխարհի չեմպիոնի հավակնորդների մրցաշարի 9-րդ տուրում այսօր Լեւոն Արոնյանը սեւերով խաղում է իսրայելցի Բորիս Գելֆանդի հետ: Տուրի կենտրոնական պարտիայում Մագնուս Կարլսենը սեւերով կխաղա Վլադիմիր Կրամնիկի հետ: Այս հանդիպումից էլ կարող է շատ բան փոխվել մրցաշարում. հաղթելու դեպքում Կրամնիկը կարող է միավորներով հավասարվել Կառլսենին: Մյուս պարտիաներն են. Սվիդլեր – Գրիշչուկ, Իվանչուկ - Ռաջաբով
+
+
+Հիշեցնենք մրցաշարային աղյուսակի դիրքը 8-րդ տուրից հետո. Արոնյան, Կարլսեն՝ 5.5-ական, Կրամնիկ՝ 4.5, Գրիշչուկ՝ 4, Սվիդլեր, Գելֆանդ՝ 3.5-ական, Ռաջաբով՝ 3, Իվանչուկ՝ 2.5
+
+
+Արոնյան – Գելֆանդ, Կրամնիկ-Կառլսեն,  Իվանչուկ – Ռաջաբով պարտիաների ընթացքին կարող եք հետեւել այստեղ.
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-candidates", game: "09-Boris_Gelfand-Levon_Aronian", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-candidates", game: "09-Vladimir_Kramnik-Magnus_Carlsen", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-candidates", game: "09-Vassily_Ivanchuk-Teimour_Radjabov", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 

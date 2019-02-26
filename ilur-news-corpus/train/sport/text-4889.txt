@@ -1,0 +1,54 @@
+
+London Chess Classic մրցաշարի 6-րդ տուրում Լեւոն Արոնյանը ոչ-ոքի խաղաց ռուսաստանցի գրոսմայստեր Վլադիմիր Կրամնիկի հետ:
+
+
+Մյուս պարտիաները արդյունավետ ստացվեցին. մրցաշարի առաջատար նորվեգացի Կառլսենը հաղթեց Հուդիթ Պոլգարին եւ էլ ավելի ամրապնդեց իր դիրքերը: Աշպարհի չեմպիոն Վիշի Անանդը անսպասելիորեն սպիտակներով պարտվեց անգլիացի Ադամսին, Մաքշեյնը հաղթեց Ջոնսին:
+
+
+6-րդ տուրից հետո մեծ առավելությամբ առջեւում է Կառլսենը` 16 միավոր: Այնուհետեւ՝ Վլադիմիր Կրամնիկ՝ 12, Ադամս` 10, Նակամուրա՝ 8, Անանդ` 6, Արոնյան` 5, Մաքշեյն` 4, Ջոնս` 2, Պոլգար` 1 միավոր:
+
+
+7-րդ տուրը կկայանա դեկտեմբերի 8-ին: Արոնյանի մրցակիցը կլինի Ջոնսը: 
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2012-lccc", game: "06-Levon_Aronian-Vladimir_Kramnik", annotations: true };
+// ]]>
+
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+ 
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2012-lccc", game: "06-Luke_McShane-Gawain_Jones", annotations: true };
+// ]]>
+
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+ 
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2012-lccc", game: "06-Magnus_Carlsen-Judit_Polgar", annotations: true };
+// ]]>
+
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+ 
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2012-lccc", game: "06-Vishy_Anand-Mickey_Adams", annotations: true };
+// ]]>
+
+
+
+Live chess broadcast powered by ChessBomb and Chessdom

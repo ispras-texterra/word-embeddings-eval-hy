@@ -1,0 +1,19 @@
+
+Վեյկ Ան Զեեի Tata Steel Chess գերմրցաշարում 8-րդ տուրում Լեւոն Արոնյանը սպիտակներով հաղթեց Չինաստանի ներկայացուցիչ Հոու Յիֆանին: Այս հաղթանակից հետո Արոնյանը իր միավորների քանակը հասցրեց 5-ի եւ ընդհուպ մոտեցավ առաջատարներին, որոնցից մի քանիսի պարտիաները դեռ շարունակվում են:
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-tata", game: "08-Aronian_Levon-Hou_Yifan", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 

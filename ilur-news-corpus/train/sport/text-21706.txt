@@ -1,0 +1,97 @@
+
+Շախմատի Հայաստանի հավաքականը Անթալիայում ընթացող աշխարհի թիմային առաջնության երկրորդ տուրում մրցում է Եգիպտոսի հավաքականի հետ:
+
+
+Հայաստանի հավաքականի առաջատար Լեւոն Արոնյանը խաղը բաց կթողնի: Առաջին խաղատախտակի վրա Մոհամմեդ Եզատի դեմ կխաղա Սերգեյ Մովսիսյանը: Վլադիմիր Հակոբյանը կհանդիպի Սամի Շոքերի հետ, Գաբրիել Սարգսյանը` Բասեմ Ամինի, Տիգրան Լ. Պետրոսյանը` Իբրահիմ Հասան Լաբիբի հետ:
+
+
+Երկրորդ տուրի մնացած հանդիպումներում կհանդիպեն Ռուսաստանն ու ԱՄՆ-ը, Ուկրաինան եւ Չինաստանը, Ադրբեջանն ու Նիդերլանդները, Գերմանիայի հավաքականը կմրցի Թուրքիայի ընտրանու հետ:
+
+
+Հիշեցնենք, որ նախօրեին առաջին հանդիպման ժամանակ հայ շախմատիստները 2:2 խաղացին մրցաշարի ֆավորիտներից Ռուսաստանի հավաքականի հետ:
+
+
+Առաջին տուրի արդյունքներով Հայաստանն ու ՌԴ-ը ունեն մեկական միավոր, Չինաստանը, Գերմանիան, Ուկրաինան ու Ադրբեջանը` երկուական: Ամերիկացիները, եգիպտացիները, թուրքերն ու հոլանդացիները միավորներ չունեն: 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-wctc", game: "02-Akopian_Vladimir-Shoker_Samy", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-wctc", game: "02-Ezat_Mohamed-Movsesian_Sergei", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-wctc", game: "02-Amin_Bassem-Sargissian_Gabriel", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-wctc", game: "02-Petrosian_Tigran_L_-Labib_Ibrahim_Hasan", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+Տիգրան Լ. Պետրոսյան - Իբրահիմ Հասան Լաբիբի 
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 

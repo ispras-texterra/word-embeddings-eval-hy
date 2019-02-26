@@ -1,0 +1,74 @@
+
+Լոնդոնում մեկնարկեց շախմատի աշխարհի չեմպիոնի հավակնորդների մրցաշարի 7-րդ տուրը:
+
+
+Մրցաշարի առաջատարներից մեկը` հայ գրոսմայստեր Լեւոն Արոնյանը սպիտակներով խաղում է ռուսաստանցի Ալեքսանդր Գրիշչուկի հետ: Նախորդ տուրում Ռաջաբովի նկատմամբ տպավորիչ հաղթանակից հետո, ունենալով հանգստյան մեկ օր, Արոնյանը պետք է որ բավական բարձր տրամադրությամբ մոտենա պարտիային: Հետո հին հաշիվներ էլ կան. սա հենց այն Գրիշչուկն է, որ հավակնորդների նախորդ մրցաշարում պայքարից դուրս թողեց Արոնյանին:
+
+
+Մրցաշարի մյուս առաջատարը` Մագնուս Կառլսենը, կփորձի ետ չմնալ Արոնյանից եւ իր հերթին նույնպես հաղթել Ադրբեջանի ներկայացուցիչ Ռաջաբովին:
+
+
+Տուրի մյուս պարտիաներն են` Գելֆանդ-Կրամնիկ, Իվանչուկ-Սվիդլեր
+
+
+Արոնյան-Գրիշչուկ, Կառլսեն-Ռաջաբով եւ Իվանչուկ-Սվիդլեր պարտիաների ընթացքին կարող եք հետեւել այստեղ.
+
+
+Հիշեցնենք մրցաշարային դիրքը 6-րդ տուրից հետո. 1-2. Արոնյան, Կարլսեն` 4,5; 3-4. Կրամնիկ, Սվիդլեր` 3; 5-6. Ռաջաբով, Գրիշչուկ` 2,5; 7-8. Գելֆանդ, Իվանչուկ` 2:
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-candidates", game: "07-Levon_Aronian-Alexander_Grischuk", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-candidates", game: "07-Magnus_Carlsen-Teimour_Radjabov", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-candidates", game: "07-Levon_Aronian-Alexander_Grischuk", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 

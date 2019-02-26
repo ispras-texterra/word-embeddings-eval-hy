@@ -1,0 +1,48 @@
+
+Լոնդոնում մեկնարկեց շախմատի աշխարհի չեմպիոնի հավակնորդների մրցաշարի 4-րդ տուրը: Մրցաշարի առաջատար Լեւոն Արոնյանը այսօր սպիտակներով կխաղա ռուսաստանցի Պյոտր Սվիդլերի հետ:
+
+
+Տուրի մյուս պարտիաներն են՝ Ռաջաբով – Կրամնիկ, Կառլսեն – Գրիշչուկ եւ Գելֆանդ – Իվանչուկ:
+
+
+Հիշեցնենք, որ մրցաշարային դիրքը 3-րդ տուրից հետո հետեւյալ տեսքն ունի. 1. Լեւոն Արոնյան (Հայաստան)՝ 2,5 միավոր, 2-3. Մագնուս Կառլսեն (Նորվեգիա), Պյոտր Սվիդլեր (Ռուսաստան)՝ 2; 4-6. Թեյմուր Ռաջաբով (Ադրբեջան), Վլադիմիր Կրամնիկ (Ռուսաստան), Ալեքսանդր Գրիշչուկ (Ռուսաստան)՝ 1,5; Բորիս Գելֆանդ (Իսրայել), Վասիլի Իվանչուկ (Ուկրաինա)՝ 0,5
+
+
+Արոնյան – Սվիդլեր, եւ Ռաջաբով – Կրամնիկ պարտիաների ընթացքին կարող եք հետեւել այստեղ.
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-candidates", game: "04-Levon_Aronian-Peter_Svidler", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-candidates", game: "04-Teimour_Radjabov-Vladimir_Kramnik", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 

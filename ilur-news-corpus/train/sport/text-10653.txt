@@ -1,0 +1,45 @@
+
+Լոնդոնում մեկնարկեց շախմատի աշխարհի չեմպիոնի հավակնորդների մրցաշարի 3-րդ տուրը: Լեւոն Արոնյանը, որը երկրորդ տուրից հետո Ռաջաբովի հետ միասին 1,5 միավորով գլխավորում է մրցաշարային աղյուսակը, սեւերով կխաղա ուկրաինացի Վասիլի Իվանչուկի հետ:
+
+
+Տուրի մյուս պարտիաներն են՝ Սվիդլեր –Ռաջաբով, Կրամնիկ – Գրիշչուկ, Գելֆանդ – Կառլսեն:
+
+
+Իվանչուկ –Արոնյան եւ Գելֆանդ -Կառլսեն պարտիաների ընթացքին կարող եք հետեւել այստեղ.
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-candidates", game: "03-Vassily_Ivanchuk-Levon_Aronian", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
+
+
+ 
+
+
+ ChessBomb code start 
+
+
+// <![CDATA[
+var cbeOptions = { layout: "3", room: "2013-candidates", game: "03-Boris_Gelfand-Magnus_Carlsen", annotations: true };
+// ]]>
+
+
+Live chess broadcast powered by ChessBomb and Chessdom
+
+
+
+
+
+ ChessBomb code end 
