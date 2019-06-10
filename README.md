@@ -26,4 +26,4 @@ In addition, we publish an adaptation of the word analogy task ([Mikolov et al.,
 
 For extrinsic evalution of vectors in a classification task, we release a dataset of over 12000 news articles from [iLur.am](http://www.ilur.am/), categorized into 7 classes: sport, politics, weather, economy, accidents, art, society. The articles are split into train (2242k tokens) and test sets (425k tokens).
 
-For more details, refer to the [paper]().
+For more details, refer to the [paper](https://arxiv.org/ftp/arxiv/papers/1906/1906.03134.pdf).
